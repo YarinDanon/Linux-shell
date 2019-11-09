@@ -15,8 +15,8 @@ run the program: open linux terminal, navigate to ex2 executeable file location 
 
 to operate: once you are inside ex2 type any command you want
 
-* incase a command execution was successfull, return code will be updated
+*incase a command execution was successfull, return code will be updated
 
-* incase the command "done" was sent, the terminal simulator will exit
+*incase the command "done" was sent, the terminal simulator will exit
 
-* incase of empty command input(space enter, enter...) or any failure to fetch input from user, last return code will be retained and a new line will be made for the simulator command
+*incase of empty command input(space enter, enter...) or any failure to fetch input from user, last return code will be retained and a new line will be made for the simulator command
